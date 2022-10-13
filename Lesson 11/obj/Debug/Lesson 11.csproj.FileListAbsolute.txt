@@ -1,0 +1,23 @@
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Lesson 11.exe.config
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Lesson 11.exe
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Lesson 11.pdb
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\FireSharp.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.csproj.App.config
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.csproj.AssemblyReference.cache
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.csproj.CoreCompileInputs.cache
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.csproj.CopyComplete
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.exe
+C:\Users\lodki\source\repos\Lesson 11\Lesson 11\obj\Debug\Lesson 11.pdb
